@@ -1,8 +1,8 @@
 # App
 this App is to calculate time and cycle for Kai's cell experiments
 
-# platform
-CodeSkulptor: http://www.codeskulptor.org/#user47_YZS2SJaduOECg3W.py
+# Platform
+CodeSkulptor: http://www.codeskulptor.org/#user47_KpAzdDZt0zscGTg.py
 
 # Code
 ```python
